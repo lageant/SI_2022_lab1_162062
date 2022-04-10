@@ -1,5 +1,5 @@
-1.Milk 
-2.Bread 
-3.Eggs 
-4.Butter 
-5.Cucumbers 
+1.Milk x1
+2.Bread x1
+3.Eggs x10
+4.Butter x2
+5.Cucumbers x4
