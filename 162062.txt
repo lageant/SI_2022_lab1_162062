@@ -1,0 +1,30 @@
+192:SI_2022_lab1_162062 angelatasevska$ git log
+commit 246b8cae60c39d32408b46432afa5cca8f2c7f61 (HEAD -> master, origin/master, origin/HEAD, branch1)
+Author: Angela Tasevska <angelatsv@yahoo.com>
+Date:   Sun Apr 10 22:53:47 2022 +0200
+
+    Add quantities to the items.
+
+commit 0fff9829dfad721c6ead8a7230b25cebb76fe5b7
+Author: Angela Tasevska <angelatsv@yahoo.com>
+Date:   Sun Apr 10 22:51:35 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit 5b8742a1a5c84992158a2b34aae39b8d21b0fa83
+Author: Angela Tasevska <56816715+lageant@users.noreply.github.com>
+Date:   Sun Apr 10 20:50:14 2022 +0200
+
+    Update README.md
+
+commit 46ab9587d3f96b8ed5aed79b0ae7429e9cf4a19a
+Author: Angela Tasevska <56816715+lageant@users.noreply.github.com>
+Date:   Sun Apr 10 20:50:01 2022 +0200
+
+    Update README.md
+
+commit af7b66a97cb7fcd652de9ffc3b2c2a3a13bf96f8
+Author: Angela Tasevska <56816715+lageant@users.noreply.github.com>
+Date:   Sun Apr 10 20:45:41 2022 +0200
+
+    Initial commit
